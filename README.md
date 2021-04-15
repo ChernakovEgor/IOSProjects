@@ -11,5 +11,5 @@ Every app was personally made by me by following guides & tutorials on [HackingW
 - MapKit:
 - SpriteKit:
 - JSON parsing:
-- WebKit: [EasyBrowser](UIKit/)
+- WebKit: [EasyBrowser](UIKit/EasyBrowser)
 - Code-only UI:
