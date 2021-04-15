@@ -5,11 +5,11 @@ Every app was personally made by me by following guides & tutorials on [HackingW
 ## Themes
 ### UIKit:
 
-- Animation: [Animation](UIKit/Animation), [GuessTheFlag](UIKit/GuessTheFlag(UIKit))
-- CoreGraphics:
-- UserDefaults:
-- MapKit:
-- SpriteKit:
+- Animation: [Animation](UIKit/Animation), [GuessTheFlag](UIKit/GuessTheFlag(UIKit)), [CapitalCities](UIKit/CapitalCities)
+- CoreGraphics: [CoreGraphics](UIKit/CoreGraphics)
+- UserDefaults: [GuessTheFlag](UIKit/GuessTheFlag(UIKit))
+- MapKit: [CapitalCities](UIKit/CapitalCities)
+- SpriteKit: [FireworksNight](UIKit/FireworksNight), [MarbleMaze]([CapitalCities](UIKit/MarbleMaze), [Pachinko](UIKit/Pachinko), [SwiftyNinja](UIKit/SwiftyNinja), [WhackAPenguin](UIKit/WhackAPenguin)
 - JSON parsing:
 - WebKit: [EasyBrowser](UIKit/EasyBrower)
 - Code-only UI:
