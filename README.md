@@ -1,7 +1,7 @@
 # IOS Study Projects
 Collection of basic projects used for future references.
 
-##Themes
+## Themes
 -Animation
 -CoreGraphics
 -UserDefaults
