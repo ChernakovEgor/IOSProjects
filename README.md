@@ -9,7 +9,7 @@ Every app was personally made by me by following guides & tutorials on [HackingW
 - CoreGraphics: [CoreGraphics](UIKit/CoreGraphics)
 - UserDefaults: [GuessTheFlag](UIKit/GuessTheFlag(UIKit))
 - MapKit: [CapitalCities](UIKit/CapitalCities)
-- SpriteKit: [FireworksNight](UIKit/FireworksNight), [MarbleMaze](UIKit/MarbleMaze), [Pachinko](UIKit/Pachinko), [SwiftyNinja](UIKit/SwiftyNinja), [WhackAPenguin](UIKit/WhackAPenguin)
+- SpriteKit: [FireworksNight](UIKit/FireworksNight), [MarbleMaze](UIKit/MarbleMaze), [Pachinko](UIKit/Pachinko), [SwiftyNinja](UIKit/SwiftyNinja), [WhackAPenguin](UIKit/WackAPenguin)
 - JSON parsing:
 - WebKit: [EasyBrowser](UIKit/EasyBrower)
 - Code-only UI:
