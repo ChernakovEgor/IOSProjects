@@ -5,11 +5,11 @@ Every app was personally made by me by following guides & tutorials on [HackingW
 ## Themes
 ### UIKit:
 
-- Animation:
+- Animation: [Animation](UIKit/Animation), [GuessTheFlag](UIKit/GuessTHeFlag)
 - CoreGraphics:
 - UserDefaults:
 - MapKit:
 - SpriteKit:
 - JSON parsing:
-- WebKit: [EasyBrowser](UIKit/EasyBrowser)
+- WebKit: [EasyBrowser](UIKit/EasyBrower)
 - Code-only UI:
