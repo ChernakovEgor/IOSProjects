@@ -5,7 +5,7 @@ Every app was personally made by me by following guides & tutorials on [HackingW
 ## Themes
 ### UIKit:
 
-- Animation: [Animation](UIKit/Animation), [GuessTheFlag](UIKit/GuessTHeFlag)
+- Animation: [Animation](UIKit/Animation), [GuessTheFlag](UIKit/GuessTHeFlag(UIKit))
 - CoreGraphics:
 - UserDefaults:
 - MapKit:
